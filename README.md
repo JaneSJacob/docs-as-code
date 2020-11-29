@@ -3,6 +3,7 @@
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 ~~Jane~~
 Your # Welcome to StackEdit!
+![Test Image](https://i.pinimg.com/originals/d0/a9/ab/d0a9ab19a78ff177eaa99be97e72bb3b.jpg)
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 <table class="table table-striped">
